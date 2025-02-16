@@ -48,7 +48,7 @@ Hey Coders, Its All About Learning From Youtube.
 |                            | Image Optimization                         |
 |                            | Content Delivery Networks (CDNs)           |
 |                            | SSL/TLS Certificates                       |
-|                            | Security Best Practices (XSS, CSRF, SQL Injection) |
+|                            | Security Best Practices (XSS , CSRF, SQL Injection) |
 |                            | Performance Monitoring Tools (Lighthouse, GTmetrix) |
 | **Additional Tools & Soft Skills** | API Integration (REST, SOAP, GraphQL) |
 |                            | Testing & Debugging (Jest, Cypress, Chrome DevTools) |
